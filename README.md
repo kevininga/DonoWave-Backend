@@ -1,4 +1,4 @@
-# Project-4-Fundraiser-Backend
+# DonoWave-Backend
 
 Fundraiser is a crowd-funding platform powered by Django and React. This repository contains the Django backend for Fundraiser. It handles user registration and authentication, and provides RESTful API endpoints for managing users, campaigns, and donations.
 
